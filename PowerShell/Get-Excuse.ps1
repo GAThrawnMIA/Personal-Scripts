@@ -1,11 +1,15 @@
 ﻿<#
 .Synopsis
-   Get a random excuse for not going in to work today.
+   Random excuse generator.
 .DESCRIPTION
-   Inspired by a friend of mine, and his inspired reasons for staying at home on work days.
+	Get a random excuse for not going in to work today.
+	Inspired by a friend of mine, and his inspired reasons for staying at home on work days.
 .EXAMPLE
    Get-Excuse
    I'm feeling a bit ill
+.NOTES
+	Written by James Blatchford, February 2017
+	https://github.com/GAThrawnMIA/Personal-Scripts/blob/master/PowerShell/Get-Excuse.ps1
 #>
 Function Get-Excuse {
     $Excuses = (
