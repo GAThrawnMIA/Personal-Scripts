@@ -47,6 +47,4 @@ Function Get-Excuse {
     Else {
         $excuses.Keys | Get-Random
     }
-    
-  #  $allExcuses | Get-Random
 }
