@@ -29,6 +29,8 @@ Function Get-Excuse {
         "I'm feeling a bit ill." = "ill";
         "I've got a bit of a sniff." = "ill";
         "I saw my family over the weekend. They're always ill. Now I'm ill as well." = "ill";
+        "I didn't sleep very well last night. Can I take the day off?" = "ill";
+        "Today is national sickie day." = "ill";   # (first Monday in February)
         "Train problems this morning." = "train";
         "A train de-railed at Lewisham earlier this week." = "train";
         "There's been engineering works at London Bridge for the last year." = "train";
